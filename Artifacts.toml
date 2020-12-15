@@ -1,0 +1,200 @@
+[[ldid]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "7eba7cdbd52cea3fc1811d830f289a97f6107f7a"
+libc = "glibc"
+os = "linux"
+
+    [[ldid.download]]
+    sha256 = "4c7dcb417eb9b75eedc8ddd8d2baca1651d2fc999080ca3ee55812c43f8c8e16"
+    url = "https://github.com/JuliaBinaryWrappers/ldid_jll.jl/releases/download/ldid-v2.1.2+0/ldid.v2.1.2.aarch64-linux-gnu-cxx03.tar.gz"
+[[ldid]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "650a4c52b81c053e47b24f971a1150836e72b860"
+libc = "glibc"
+os = "linux"
+
+    [[ldid.download]]
+    sha256 = "1879206c5c2e49a6d7cdec5e9f6e446c3cebab0adc40590d29444e96e82d1eea"
+    url = "https://github.com/JuliaBinaryWrappers/ldid_jll.jl/releases/download/ldid-v2.1.2+0/ldid.v2.1.2.aarch64-linux-gnu-cxx11.tar.gz"
+[[ldid]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "4aab09cc0b5d516c16c60d8d9b94516552911407"
+libc = "musl"
+os = "linux"
+
+    [[ldid.download]]
+    sha256 = "aa79c45b0937ef1d0ebae93dab9bca050e7b9db226dff819213276e0fba019f2"
+    url = "https://github.com/JuliaBinaryWrappers/ldid_jll.jl/releases/download/ldid-v2.1.2+0/ldid.v2.1.2.aarch64-linux-musl-cxx03.tar.gz"
+[[ldid]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "d8572f61b7e1d825058495e68da772ff0b30ebfb"
+libc = "musl"
+os = "linux"
+
+    [[ldid.download]]
+    sha256 = "8f4a2aac84a39020dd23d3af983a72692cc50f797a1d04b1d9b661239908cdb0"
+    url = "https://github.com/JuliaBinaryWrappers/ldid_jll.jl/releases/download/ldid-v2.1.2+0/ldid.v2.1.2.aarch64-linux-musl-cxx11.tar.gz"
+[[ldid]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "5ff51dcaa85b397ae2a8ab950ff3f2a0ddccad6a"
+libc = "glibc"
+os = "linux"
+
+    [[ldid.download]]
+    sha256 = "b09bdc876da3f653c7d5cb9930ce1246c731960ace04c459ddd2c898b0341e7d"
+    url = "https://github.com/JuliaBinaryWrappers/ldid_jll.jl/releases/download/ldid-v2.1.2+0/ldid.v2.1.2.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[ldid]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "40ed38f0c4b9e7efeee4122baa6198172f9cfdca"
+libc = "glibc"
+os = "linux"
+
+    [[ldid.download]]
+    sha256 = "b3f5a0a63fbd0e4a800f089e078c2e68e1c7ee463b4989abd7252c5018591181"
+    url = "https://github.com/JuliaBinaryWrappers/ldid_jll.jl/releases/download/ldid-v2.1.2+0/ldid.v2.1.2.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[ldid]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "5660c07d26bdb249af059e9c0104c86adc5ea275"
+libc = "musl"
+os = "linux"
+
+    [[ldid.download]]
+    sha256 = "3d5a1201736e25c082cbc182686588b15e2676c990d3240de35a72ae54496d6a"
+    url = "https://github.com/JuliaBinaryWrappers/ldid_jll.jl/releases/download/ldid-v2.1.2+0/ldid.v2.1.2.armv7l-linux-musleabihf-cxx03.tar.gz"
+[[ldid]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "651ebcbc63d1b242126383402f912d937769a9d2"
+libc = "musl"
+os = "linux"
+
+    [[ldid.download]]
+    sha256 = "bb434b281451971011bc28a34111bfe61e2802179eef202aaa9ddd05aaa60025"
+    url = "https://github.com/JuliaBinaryWrappers/ldid_jll.jl/releases/download/ldid-v2.1.2+0/ldid.v2.1.2.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[ldid]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "10e66525bc309109fe561a77e6fd2abce6574ccc"
+libc = "glibc"
+os = "linux"
+
+    [[ldid.download]]
+    sha256 = "274ec20d279c055d7a9d717c71759ec332bca2c352e5f6071527632bf94d3f69"
+    url = "https://github.com/JuliaBinaryWrappers/ldid_jll.jl/releases/download/ldid-v2.1.2+0/ldid.v2.1.2.i686-linux-gnu-cxx03.tar.gz"
+[[ldid]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "9b1418c5073d5daed894e0baa3febfe3350e6b0e"
+libc = "glibc"
+os = "linux"
+
+    [[ldid.download]]
+    sha256 = "70e19940c0169530039aa7e1eeee28da4d9a16a5992b67bb0a24d987bcee8ffa"
+    url = "https://github.com/JuliaBinaryWrappers/ldid_jll.jl/releases/download/ldid-v2.1.2+0/ldid.v2.1.2.i686-linux-gnu-cxx11.tar.gz"
+[[ldid]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "a3c9b13066adab5e39e96d791945eea77c59cefb"
+libc = "musl"
+os = "linux"
+
+    [[ldid.download]]
+    sha256 = "96ef95de1d45665c01ee74e31992d2cc1f2d6f4c5dd873ccaee30fed76ab34f4"
+    url = "https://github.com/JuliaBinaryWrappers/ldid_jll.jl/releases/download/ldid-v2.1.2+0/ldid.v2.1.2.i686-linux-musl-cxx03.tar.gz"
+[[ldid]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "bb92b5876bc1695d1a12404b863c122e2b65792a"
+libc = "musl"
+os = "linux"
+
+    [[ldid.download]]
+    sha256 = "367e7d47bb07d8188b51a9d651f8845dd7da2daba66c46a4774a068c9fa5fd36"
+    url = "https://github.com/JuliaBinaryWrappers/ldid_jll.jl/releases/download/ldid-v2.1.2+0/ldid.v2.1.2.i686-linux-musl-cxx11.tar.gz"
+[[ldid]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "607c55c316d159dc55ade13380821a37d58c9887"
+libc = "glibc"
+os = "linux"
+
+    [[ldid.download]]
+    sha256 = "01b2e7b58a31bb6df88cc8d02656381ce95a35dd092feea75fd33b81008a480f"
+    url = "https://github.com/JuliaBinaryWrappers/ldid_jll.jl/releases/download/ldid-v2.1.2+0/ldid.v2.1.2.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[ldid]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "01285c21ff1eeb35335c342e84c214adba744731"
+libc = "glibc"
+os = "linux"
+
+    [[ldid.download]]
+    sha256 = "c88e8533f72b6e9e881c8020283dfba186884e3035098457112c45b67661decb"
+    url = "https://github.com/JuliaBinaryWrappers/ldid_jll.jl/releases/download/ldid-v2.1.2+0/ldid.v2.1.2.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[ldid]]
+arch = "x86_64"
+git-tree-sha1 = "a219592cd1285209d231ac298019a485aca64169"
+os = "macos"
+
+    [[ldid.download]]
+    sha256 = "d560575d0fc723800d59b98c317cd73b54ec3c53e6c633084a3cb6b06ce9b285"
+    url = "https://github.com/JuliaBinaryWrappers/ldid_jll.jl/releases/download/ldid-v2.1.2+0/ldid.v2.1.2.x86_64-apple-darwin.tar.gz"
+[[ldid]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "e27e3e6a6d0ee840c17d77dbacaf322ff9d66e7c"
+libc = "glibc"
+os = "linux"
+
+    [[ldid.download]]
+    sha256 = "249f36133b4930c2549f1a8d171a888ed600281a788f1482f2329de463334779"
+    url = "https://github.com/JuliaBinaryWrappers/ldid_jll.jl/releases/download/ldid-v2.1.2+0/ldid.v2.1.2.x86_64-linux-gnu-cxx03.tar.gz"
+[[ldid]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "25df2b2ced74a5cdb3e6de3823940adb848d1491"
+libc = "glibc"
+os = "linux"
+
+    [[ldid.download]]
+    sha256 = "7616b84dba4fd514a2a811aa333ff9e7511c6ea1268e6f4aa5e2ab36cfdfd3d3"
+    url = "https://github.com/JuliaBinaryWrappers/ldid_jll.jl/releases/download/ldid-v2.1.2+0/ldid.v2.1.2.x86_64-linux-gnu-cxx11.tar.gz"
+[[ldid]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "9aa061d6a0346840ef43e854b7dcc7121ec7cf13"
+libc = "musl"
+os = "linux"
+
+    [[ldid.download]]
+    sha256 = "3ecba734ae98802418e688491eaa621ff459b3d03d2b275e1d642216f8e8a9eb"
+    url = "https://github.com/JuliaBinaryWrappers/ldid_jll.jl/releases/download/ldid-v2.1.2+0/ldid.v2.1.2.x86_64-linux-musl-cxx03.tar.gz"
+[[ldid]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "e498a115b7890def74c1702f5013a6a49ea1c13d"
+libc = "musl"
+os = "linux"
+
+    [[ldid.download]]
+    sha256 = "960ebcd32842f81d140293157d90e4e829fd16241bf5b0a23929e4938256a572"
+    url = "https://github.com/JuliaBinaryWrappers/ldid_jll.jl/releases/download/ldid-v2.1.2+0/ldid.v2.1.2.x86_64-linux-musl-cxx11.tar.gz"
+[[ldid]]
+arch = "x86_64"
+git-tree-sha1 = "40d149ebe58fd4b041695a07efa69741db6af9f1"
+os = "freebsd"
+
+    [[ldid.download]]
+    sha256 = "d781c5ac3774f502e5854b36ce6a8db0de8c06369082f047c6c71773cd6ee532"
+    url = "https://github.com/JuliaBinaryWrappers/ldid_jll.jl/releases/download/ldid-v2.1.2+0/ldid.v2.1.2.x86_64-unknown-freebsd.tar.gz"
